@@ -4,7 +4,7 @@ A new Flutter project.
 1.	git init -b main
 2.	git add .
 3.	git commit -m “lab_act0” 
-4.	git remote add origin “https://github.com/ZeSha-C/flutter_mobprog.git”
+4.	git remote add origin "https://github.com/ZeSha-C/codina_mobprogay2627.git"
 5.	git push origin main
 
 •	What challenges did you encounter while installing or configuring Flutter?
