@@ -17,3 +17,16 @@ A new Flutter project.
 - that it was challenging
 •	What practices will you follow to make future Flutter development easier?
 - make sure my dependencies and extensions updated
+
+
+
+•	Your experience creating and running your first Flutter application.
+it was difficult to set up
+•	Any challenges encountered with dependencies, SDK configuration, or device selection.
+had to relocate android sdk among others
+•	Errors encountered and troubleshooting steps performed.
+none
+•	What you learned about executing Flutter applications.
+that they are difficult to get started
+•	Best practices you can apply in your future mobile development activities.
+always update to latest versions
